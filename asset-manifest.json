@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-lazy/static/css/main.605c7f4a.chunk.css",
+    "main.js": "/react-lazy/static/js/main.7cfce05f.chunk.js",
+    "main.js.map": "/react-lazy/static/js/main.7cfce05f.chunk.js.map",
+    "runtime-main.js": "/react-lazy/static/js/runtime-main.619cd11e.js",
+    "runtime-main.js.map": "/react-lazy/static/js/runtime-main.619cd11e.js.map",
+    "static/js/2.ddd7f45e.chunk.js": "/react-lazy/static/js/2.ddd7f45e.chunk.js",
+    "static/js/2.ddd7f45e.chunk.js.map": "/react-lazy/static/js/2.ddd7f45e.chunk.js.map",
+    "static/js/3.5db8cfb2.chunk.js": "/react-lazy/static/js/3.5db8cfb2.chunk.js",
+    "static/js/3.5db8cfb2.chunk.js.map": "/react-lazy/static/js/3.5db8cfb2.chunk.js.map",
+    "index.html": "/react-lazy/index.html",
+    "static/css/main.605c7f4a.chunk.css.map": "/react-lazy/static/css/main.605c7f4a.chunk.css.map",
+    "static/js/2.ddd7f45e.chunk.js.LICENSE.txt": "/react-lazy/static/js/2.ddd7f45e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.619cd11e.js",
+    "static/js/2.ddd7f45e.chunk.js",
+    "static/css/main.605c7f4a.chunk.css",
+    "static/js/main.7cfce05f.chunk.js"
+  ]
+}
